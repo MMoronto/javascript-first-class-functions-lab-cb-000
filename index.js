@@ -4,6 +4,6 @@ function countdown(callback) {
   }, 2000);
 }
 
-function createMultiplier(n) {
+function createMultiplier(multiplierValue) {
  return
 }
