@@ -11,3 +11,4 @@ function createMultiplier(multiplierValue) {
    return doubler
  }
 }
+
